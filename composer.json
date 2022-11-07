@@ -1,6 +1,13 @@
 {
     "name": "heyeverton/querybuilder",
-    "description": "A simple package to make sql queries ",
+    "description": "A simple package to make sql queries",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Everton Henrique",
+            "email": "everton.h.g.fonseca@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "license": "MIT",
     "require-dev": {
